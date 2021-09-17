@@ -1,4 +1,4 @@
-# benchmark-finance
+# openfed-finance
 
 Coming soon...
 
